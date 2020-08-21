@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mayank Bhushan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am a recent graduate in Computer Science and Engineering, [IIT Kharagpur](http://www.iitkgp.ac.in/), India. I am particularly interested in the field of Artificial Intelligence, Distributed Systems, Computer Networks and Algorithms. 
+
+Currently, I am working as an Analyst, Trading Systems in [AlphaGrep Securities](http://alpha-grep.com/) at Mumbai, India. I started this job in July,2020.
+
+In summer 2019, I had interned at the [BlackBuck](https://blackbuck.com/), Bangalore, India. I worked on the problem of providing navigation for trucks, a feature still missing in the Google Maps. I was also offered a Pre-Placement Job Offer from the company. 
+
+Prior to this in the summer 2018, I had interned as a software developer at [Zerostack](https://www.zerostack.com/). I had developed a CLI to ease the problem of network troubleshooting in virtual machines in an [OpenStack](https://www.openstack.org/) cluster.
+
+During my Sophomore years I had joined [KRSSG](http://krssg.in/index.html) and implemented a multi-threaded three-tier architecture for soccer playing omni-wheel robots. I led the team for maiden participation in [Robocup](https://www.robocup.org/), Nagoya, Japan in July, 2017.
+
+During my spare time I enjoy solving chess puzzles and watching TV/web series. I also like to discover new songs on Spotify, thanks to its good recommendation system. Here is a [playlist](https://open.spotify.com/playlist/1fp89gMRmb0DE2W0ULbEWf?si=vtdlVMeIQh-jzfg4rkUZ_A) which contains a messy curration of all the longs I mostly listen. Happy listening!
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
