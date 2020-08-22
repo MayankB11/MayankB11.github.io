@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Link to my [Curriculum Vitae](https://mayankb11.com/files/cv.pdf).
+Link to my [Curriculum Vitae](https://mayankb11.github.io/files/cv.pdf).
 
 #### Last Updated : August, 2019
 
