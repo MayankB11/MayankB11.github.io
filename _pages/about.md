@@ -8,9 +8,34 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.marquee {
+    width: 450px;
+	line-height: 50px;
+	background-color: white;
+	color: blue;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.marquee p {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 15s linear infinite;
+}
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+</style>
+
+<div class="marquee">
+	<p>This website is still a work in progress</p>
+</div>
+
 Hi! I am a recent graduate in Computer Science and Engineering, [IIT Kharagpur](http://www.iitkgp.ac.in/), India. I am particularly interested in the field of Artificial Intelligence, Distributed Systems, Computer Networks and Algorithms. 
 
-Currently, I am working as an Analyst, Trading Systems in [AlphaGrep Securities](http://alpha-grep.com/) at Mumbai, India. I started this job in July,2020.
+Currently, I am working as an Analyst, Trading Systems in [AlphaGrep Securities](http://alpha-grep.com/) at Mumbai, India. I started this job in July, 2020.
 
 In summer 2019, I had interned at the [BlackBuck](https://blackbuck.com/), Bangalore, India. I worked on the problem of providing navigation for trucks, a feature still missing in the Google Maps. I was also offered a Pre-Placement Job Offer from the company. 
 
