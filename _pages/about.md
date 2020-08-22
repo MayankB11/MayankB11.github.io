@@ -33,7 +33,7 @@ redirect_from:
 	<p>This website is still a work in progress</p>
 </div>
 
-<div class="counter">1,123,456 downloads</div>
+<!-- <div class="counter">1,123,456 downloads</div>
 
 <script>
 import counterUp from 'counterup2'
@@ -45,7 +45,7 @@ counterUp( el, {
     duration: 1000,
     delay: 16,
 } )
-</script>
+</script> -->
 
 Hi! I am a recent graduate in Computer Science and Engineering, [IIT Kharagpur](http://www.iitkgp.ac.in/), India. I am particularly interested in the field of Artificial Intelligence, Distributed Systems, Computer Networks and Algorithms. 
 
