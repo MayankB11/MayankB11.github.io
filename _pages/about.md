@@ -33,6 +33,20 @@ redirect_from:
 	<p>This website is still a work in progress</p>
 </div>
 
+<div class="counter">1,123,456 downloads</div>
+
+<script>
+import counterUp from 'counterup2'
+
+const el = document.querySelector( '.counter' )
+
+// Start counting, do this on DOM ready or with Waypoints.
+counterUp( el, {
+    duration: 1000,
+    delay: 16,
+} )
+</script>
+
 Hi! I am a recent graduate in Computer Science and Engineering, [IIT Kharagpur](http://www.iitkgp.ac.in/), India. I am particularly interested in the field of Artificial Intelligence, Distributed Systems, Computer Networks and Algorithms. 
 
 Currently, I am working as an Analyst, Trading Systems in [AlphaGrep Securities](http://alpha-grep.com/) at Mumbai, India. I started this job in July, 2020.
@@ -41,7 +55,7 @@ In summer 2019, I had interned at the [BlackBuck](https://blackbuck.com/), Banga
 
 Prior to this in the summer 2018, I had interned as a software developer at [Zerostack](https://www.zerostack.com/). I had developed a CLI to ease the problem of network troubleshooting in virtual machines in an [OpenStack](https://www.openstack.org/) cluster.
 
-During my Sophomore years I had joined [KRSSG](http://krssg.in/index.html) and implemented a multi-threaded three-tier architecture for soccer playing omni-wheel robots. I led the team for maiden participation in [Robocup](https://www.robocup.org/), Nagoya, Japan in July, 2017.
+During my Sophomore years I had joined [KRSSG](http://krssg.in/index.html) and implemented a multi-threaded three-tier architecture for soccer playing omni-wheel robots. I led the team for their maiden participation in [Robocup](https://www.robocup.org/), Nagoya, Japan in July, 2017.
 
 During my spare time I enjoy solving chess puzzles and watching TV/web series. I also like to discover new songs on Spotify, thanks to its good recommendation system. Here is a [playlist](https://open.spotify.com/playlist/1fp89gMRmb0DE2W0ULbEWf?si=vtdlVMeIQh-jzfg4rkUZ_A) which contains a messy curration of all the longs I mostly listen. Happy listening!
 
